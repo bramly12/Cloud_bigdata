@@ -1,2 +1,8 @@
 Flask==3.1.2
 gunicorn
+flask
+requests
+pandas
+plotly
+python-dotenv
+flask-caching
